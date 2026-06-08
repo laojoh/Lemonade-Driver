@@ -1,0 +1,3 @@
+/home/laojoh/fbcp-ili9341/build/CMakeFiles/fbcp-ili9341.dir
+/home/laojoh/fbcp-ili9341/build/CMakeFiles/edit_cache.dir
+/home/laojoh/fbcp-ili9341/build/CMakeFiles/rebuild_cache.dir
