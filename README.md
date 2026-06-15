@@ -4,7 +4,7 @@ FBCP-ILI9341 (ILI9488-Targetting) Driver for 4.0" SPI TFT LCD Display
 # Background
 For some context, this is a driver I spent hours trying to work out and find **specifically** for this screen, in the 4.0" no touch version: https://www.aliexpress.us/item/3256809575069193.html?spm=a2g0o.detail.0.0.604fhvjyhvjywW&mp=1&pdp_npi=6%40dis%21USD%21USD+13.32%21USD+0.99%21%21USD+0.99%21%21%21%402103212b17806555389702086ea6dd%2112000050079449351%21ct%21US%21-1%21%211%210%21&_gl=1*1mbfbkz*_gcl_au*MjgxNDYxOTA5LjE3Nzg1NTY1NzY.*_ga*MTgxOTI1OTc1Ni4xNzgwNjQzMjcx*_ga_VED1YSGNC7*czE3ODA2OTc5ODQkbzQkZzAkdDE3ODA2OTc5ODckajU3JGwwJGgw&gatewayAdapt=glo2usa
 
-**please keep in mind that this driver is setup to be compatiblle with both the screen listed above and also a Raspberry Pi Zero 2 W. (RP02W) ** (Not tested on other controllers such as pico, regular raspberry pis, or arduinos)
+**please keep in mind that this driver is setup to be compatiblle with both the screen listed above and also a Raspberry Pi Zero 2 W. (RP02W)** (Not tested on other controllers such as pico, regular raspberry pis, or arduinos)
 
 # Use
 ## Step 1
